@@ -5,7 +5,7 @@
 - 🤔 Professor de Tecnologia e Robótica & Matemática.
 - 🎓 Bacharel em Sistemas de Informação e Licenciado em Matemática.
 - 💼 Trabalhando como Professor na GovSP.
-- 🌱 Aprendendo mais sobre Js, Scratch e  GihHub.
+- 🌱 Desenvolvedor , web designer, faça seu orçamento sem compromisso.
 
 ## Minhas Skills
 
